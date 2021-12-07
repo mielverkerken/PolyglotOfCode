@@ -20,7 +20,7 @@ Inspiration for the used programming languages is taken from the [_StackOverflow
 | 4    | Go              | Solved ⭐⭐  |
 | 5    | Scala           | Solved ⭐⭐  |
 | 6    | Perl            | Solved ⭐⭐  |
-| 7    |                 |               |
+| 7    | R               | Solved ⭐⭐  |
 | 8    |                 |               |
 | 9    |          		 |               |
 | 10   |           		 |               |
