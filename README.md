@@ -22,7 +22,7 @@ Inspiration for the used programming languages is taken from the [_StackOverflow
 | 6    | Perl            | Solved ⭐⭐  |
 | 7    | R               | Solved ⭐⭐  |
 | 8    | C#              | Solved ⭐⭐  |
-| 9    |          		 |               |
+| 9    | Javascript  	 | Solved ⭐⭐  |
 | 10   |           		 |               |
 | 11   |            	 |               |
 | 12   |                 |               |
