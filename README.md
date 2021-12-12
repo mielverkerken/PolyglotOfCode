@@ -23,8 +23,8 @@ Inspiration for the used programming languages is taken from the [_StackOverflow
 | 7    | R               | Solved ⭐⭐  |
 | 8    | C#              | Solved ⭐⭐  |
 | 9    | Javascript  	 | Solved ⭐⭐  |
-| 10   |           		 |               |
-| 11   |            	 |               |
+| 10   | Rust      		 | Solved ⭐⭐  |
+| 11   | Typescript 	 | Solved ⭐⭐  |
 | 12   |                 |               |
 | 13   |                 |               |
 | 14   |        		 |               |
