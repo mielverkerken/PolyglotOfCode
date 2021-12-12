@@ -25,7 +25,7 @@ Inspiration for the used programming languages is taken from the [_StackOverflow
 | 9    | Javascript  	 | Solved ⭐⭐  |
 | 10   | Rust      		 | Solved ⭐⭐  |
 | 11   | Typescript 	 | Solved ⭐⭐  |
-| 12   |                 |               |
+| 12   | C++             | Solved ⭐⭐  |
 | 13   |                 |               |
 | 14   |        		 |               |
 | 15   |        		 |               |
