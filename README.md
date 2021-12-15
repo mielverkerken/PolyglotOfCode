@@ -27,7 +27,7 @@ Inspiration for the used programming languages is taken from the [_StackOverflow
 | 11   | Typescript 	 | Solved ⭐⭐  |
 | 12   | C++             | Solved ⭐⭐  |
 | 13   | PHP             | Solved ⭐⭐  |
-| 14   |        		 |               |
+| 14   | Dart     		 | Solved ⭐⭐  |
 | 15   |        		 |               |
 | 16   |               	 |               |
 | 17   |           		 |               |
