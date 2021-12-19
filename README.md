@@ -31,7 +31,7 @@ Inspiration for the used programming languages is taken from the [_StackOverflow
 | 15   | Ruby   		 | Solved ⭐⭐  |
 | 16   | Kotlin        	 | Solved ⭐⭐  |
 | 17   |           		 |               |
-| 18   |                 |               |
+| 18   | Julia           | Solved ⭐⭐  |
 | 19   |               	 |               |
 | 20   |           		 |               |
 | 21   |           		 |               |
